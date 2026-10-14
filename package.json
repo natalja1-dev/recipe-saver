@@ -9,12 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.117.3",
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
-    "eslint": "^9",
+    "eslint": "^8.57.1",
     "eslint-config-next": "^14.2.35"
   }
 }
